@@ -1,2 +1,3 @@
-Premi√®re ligne de notes."Deuxiäme ligne de notes." 
-"Troisiäme ligne (feature)." 
+1√®re ligne de notes.
+"Deuxi me ligne de notes." 
+"Troisi me ligne (feature)." 
